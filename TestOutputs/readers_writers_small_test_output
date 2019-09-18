@@ -3,23 +3,23 @@ Creating 3 Readers and 0 Writers
 Readers and Writers created Successfully!
 Read 1984210012 from 95
 Read 1141616124 from 70
-read Thread 0 Entry 1.000165852 Start 1.000174281 End 2.000234863
+read Thread 0 Entry 1.000198348 Start 1.000214233 End 2.000289371
 Read 1369133069 from 34
-read Thread 1 Entry 2.000153306 Start 2.000154427 End 3.000210964
-read Thread 2 Entry 3.000121854 Start 3.000122758 End 4.000181750
+read Thread 1 Entry 2.000233438 Start 2.000240948 End 3.000542200
+read Thread 2 Entry 3.000189795 Start 3.000193243 End 4.000264243
 Read and Write Tasks completed!
 Creating 3 Readers and 3 Writers
-Readers and Writers created Successfully!
 Read 1374344043 from 78
-read Thread 0 Entry 0.000104201 Start 0.000104768 End 2.000190910
+Readers and Writers created Successfully!
+read Thread 0 Entry 0.000122556 Start 0.000129622 End 2.000286792
 Wrote 1892066601 into 67
-write Thread 3 Entry 1.000183402 Start 2.000212697 End 6.000451173
-Wrote 927612902 into 97
-write Thread 4 Entry 6.000190949 Start 6.000473109 End 10.000737127
+write Thread 3 Entry 1.000332347 Start 2.000317975 End 4.000464029
+Read 1749698586 from 97
+Read 1681692777 from 2
+read Thread 1 Entry 5.000362931 Start 5.000365685 End 6.000429211
+read Thread 2 Entry 5.000434123 Start 5.000438010 End 6.000569530
 Wrote 603570492 into 17
-write Thread 5 Entry 7.000197021 Start 10.000788185 End 12.001087017
-Read 412776091 from 52
-Read 137806862 from 56
-read Thread 2 Entry 5.000178692 Start 12.001145230 End 13.001295292
-read Thread 1 Entry 5.000170955 Start 12.001138859 End 13.001295386
+write Thread 4 Entry 6.000281250 Start 6.000586113 End 8.000701418
+Wrote 660260756 into 52
+write Thread 5 Entry 7.001123136 Start 8.000802194 End 9.001081527
 Read and Write Tasks completed!
