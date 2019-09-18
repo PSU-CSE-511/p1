@@ -79,8 +79,6 @@ void write_db(_thread_info_t *myinfo)
   int data = rand()%INT_MAX;
   database[key] = data;
   printf("Wrote %d into %d\n", data, key);
-  
-  sleep(myinfo->exec_time);
   sleep(myinfo->exec_time);
   clock_gettime(CLOCK_MONOTONIC, &myinfo->cs_exit_time);
   EXIT_OPERATION(WRITE_OP);
